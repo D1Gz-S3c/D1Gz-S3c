@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Digz</h1>
 <h3 align="center">Currently committed to studying CyberSecurity</h3>
-<p>&nbsp;<img align="center" width=1000px height=300px src="https://github-readme-stats.vercel.app/api?username=domdomdim&show_icons=true&locale=en" alt="domdomdim" /></p>
+<p>&nbsp;<img align="center" width=950px height=300px src="https://github-readme-stats.vercel.app/api?username=domdomdim&show_icons=true&locale=en" alt="domdomdim" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domdomdim&label=Profile%20views&color=0e75b6&style=flat" alt="domdomdim" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=domdomdim&show_icons=true&locale=en&layout=compact" alt="domdomdim" /></p>
 
