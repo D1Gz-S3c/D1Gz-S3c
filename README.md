@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Digz</h1>
 <h3 align="center">Currently committed to studying CyberSecurity</h3>
-<p>&nbsp;<img align="center" width=950px height=300px src="https://github-readme-stats.vercel.app/api?username=domdomdim&show_icons=true&locale=en" alt="domdomdim" /></p>
+<p>&nbsp;<img align="center" width=950px height=300px src="https://github-readme-stats.vercel.app/api?username=D1Gz-S3c&show_icons=true&locale=en" alt="D1Gz-S3c" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=domdomdim&label=Profile%20views&color=0e75b6&style=flat" alt="domdomdim" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=domdomdim&show_icons=true&locale=en&layout=compact" alt="domdomdim" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=D1Gz-S3c&label=Profile%20views&color=0e75b6&style=flat" alt="D1Gz-S3c" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=D1Gz-S3c&show_icons=true&locale=en&layout=compact" alt="D1Gz-S3c" /></p>
 
 - 🐉 I’m currently working on **Python**
 
